@@ -10,4 +10,8 @@
 		<property name="msg" value="올레드 "/>
 	</bean> 
 	<!-- beans : 스프링 컨테이너 의미 -->
+	
+	<bean id="Stv" class="ex1.SamsungTV">
+		<property name="msg" value="삼서엉 "/>
+	</bean>
 </beans>
